@@ -128,12 +128,9 @@
             ],
             "creator": [
                 {
-<<<<<<< HEAD
-=======
                     "@id": "https://orcid.org/0000-0001-6104-9260"
                 },
                 {
->>>>>>> TEMPLATE
                     "@id": "#phil@seqera.io"
                 }
             ],
@@ -319,15 +316,12 @@
             "url": "https://nf-co.re/"
         },
         {
-<<<<<<< HEAD
-=======
             "@id": "https://orcid.org/0000-0001-6104-9260",
             "@type": "Person",
             "email": "mirp.julia@gmail.com",
             "name": "J\u00falia Mir Pedrol"
         },
         {
->>>>>>> TEMPLATE
             "@id": "#phil@seqera.io",
             "@type": "Person",
             "email": "phil@seqera.io",
